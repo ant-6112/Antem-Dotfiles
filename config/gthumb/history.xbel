@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/antrang/Downloads" added="2022-05-06T20:27:38.813698Z" modified="2022-05-06T20:27:38.813787Z" visited="2022-05-06T20:27:38.813701Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813785Z" count="2"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/.cache/.fr-XD8qr0/png/unicode/64" added="2022-05-06T20:27:38.813715Z" modified="2022-05-06T20:27:38.813726Z" visited="2022-05-06T20:27:38.813718Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813722Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Pictures/wallpapers" added="2022-05-06T20:27:38.813730Z" modified="2022-05-06T20:27:38.813740Z" visited="2022-05-06T20:27:38.813732Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813737Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Pictures" added="2022-05-06T20:27:38.813743Z" modified="2022-05-06T20:27:38.813752Z" visited="2022-05-06T20:27:38.813746Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813750Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang" added="2022-05-06T20:27:38.813755Z" modified="2022-05-06T20:27:38.813765Z" visited="2022-05-06T20:27:38.813758Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813762Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Downloads/bird-master/bird-master/assets/images" added="2022-05-06T20:27:38.813769Z" modified="2022-05-06T20:27:38.813781Z" visited="2022-05-06T20:27:38.813772Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813775Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Downloads/Tokyonight_Dark/gtk-4.0" added="2022-05-06T20:27:38.813790Z" modified="2022-05-06T20:27:38.813798Z" visited="2022-05-06T20:27:38.813792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813796Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Downloads/Tokyonight_Dark/gtk-3.0/assets/scalable" added="2022-05-06T20:27:38.813805Z" modified="2022-05-06T20:27:38.813815Z" visited="2022-05-06T20:27:38.813808Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813812Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Downloads/Tokyonight_Dark/gtk-3.0/assets" added="2022-05-06T20:27:38.813819Z" modified="2022-05-06T20:27:38.813829Z" visited="2022-05-06T20:27:38.813822Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813825Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Downloads/Tokyonight_Dark/gtk-3.0" added="2022-05-06T20:27:38.813832Z" modified="2022-05-06T20:27:38.813842Z" visited="2022-05-06T20:27:38.813835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813839Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Downloads/Tokyonight_Dark/gtk-2.0/assets" added="2022-05-06T20:27:38.813846Z" modified="2022-05-06T20:27:38.813857Z" visited="2022-05-06T20:27:38.813849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813854Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Downloads/Tokyonight_Dark/gtk-2.0" added="2022-05-06T20:27:38.813861Z" modified="2022-05-06T20:27:38.813871Z" visited="2022-05-06T20:27:38.813864Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813868Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Downloads/Tokyonight_Dark/gnome-shell-DTP/assets" added="2022-05-06T20:27:38.813875Z" modified="2022-05-06T20:27:38.813886Z" visited="2022-05-06T20:27:38.813879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813883Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/antrang/Downloads/Tokyonight_Dark/gnome-shell-DTP" added="2022-05-06T20:27:38.813890Z" modified="2022-05-06T20:27:38.813899Z" visited="2022-05-06T20:27:38.813894Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-06T20:27:38.813897Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

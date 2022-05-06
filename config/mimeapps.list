@@ -1,0 +1,13 @@
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-Z8LMK1.desktop
+message/rfc822=userapp-Thunderbird-Z8LMK1.desktop
+x-scheme-handler/mid=userapp-Thunderbird-Z8LMK1.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-Z8LMK1.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-Z8LMK1.desktop;
+application/vnd.appimage=xfce4-terminal.desktop;
+text/csv=firefox.desktop;chromium.desktop;
+image/png=org.gnome.gThumb.desktop;
+text/x-go=nvim.desktop;
+application/x-gzpdf=org.gnome.Evince.desktop;chromium.desktop;
