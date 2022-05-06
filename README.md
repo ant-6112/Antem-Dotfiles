@@ -21,8 +21,6 @@
 
 </h4>
 
-   <img src="./2022-05-07-02:24:20-screenshot.png" alt="Rice Preview" align="right" width="400px" >
-
    Thanks for dropping by! This is my personal repository of my dotfiles.
 
    Here are more information about my setup:
