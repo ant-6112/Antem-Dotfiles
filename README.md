@@ -42,13 +42,13 @@
 
 # Screenshots
 
-   <img src="2022-05-07-02:24:20-screenshot.png" alt="Rice Preview" align="center" width="800px" >
+   <img src="./2022-05-07-02:24:20-screenshot.png" alt="Rice Preview" align="center" width="800px" >
    <br>
-   <img src="2022-05-07-02:25:41-screenshot.png" alt="Rice Preview" align="center" width="800px" >
+   <img src="./2022-05-07-02:25:41-screenshot.png" alt="Rice Preview" align="center" width="800px" >
    <br>
-   <img src="2022-05-07-02:32:51-screenshot.png" alt="Rice Preview" align="center" width="800px" >
+   <img src="./2022-05-07-02:32:51-screenshot.png" alt="Rice Preview" align="center" width="800px" >
    <br>
-   <img src="2022-05-07-02:27:12-screenshot.png" alt="Rice Preview" align="center" width="800px" >
+   <img src="./2022-05-07-02:27:12-screenshot.png" alt="Rice Preview" align="center" width="800px" >
 
 <br />
 
