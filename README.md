@@ -63,7 +63,7 @@
 
 - **Contributors**
 
-    - [Just Me](https://github.com/ant-6112)
+    - [Me](https://github.com/ant-6112)
 
 
          
