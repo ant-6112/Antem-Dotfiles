@@ -50,7 +50,7 @@
 
 <br />
 
-# Acknoledgements
+# Acknoledgement
 
 - **Inspiration**
 
